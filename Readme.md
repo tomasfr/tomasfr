@@ -1,1 +1,1 @@
-Arquivo de entrada Git
+- Desenvolvedor em Ricchezza Prata
