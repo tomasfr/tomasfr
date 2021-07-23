@@ -1,1 +1,2 @@
 - Desenvolvedor em Ricchezza Prata
+ - LinkedIn: https://www.linkedin.com/in/tomas-furlan-rodolpho/
