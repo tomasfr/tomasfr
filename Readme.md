@@ -1,2 +1,3 @@
-- Desenvolvedor em Ricchezza Prata  :ring: :computer:
-- LinkedIn: https://www.linkedin.com/in/tomas-furlan-rodolpho/
+- Desenvolvedor em Ricchezza Prata  :ring:
+- LinkedIn: https://www.linkedin.com/in/tomas-furlan-rodolpho/ :man_office_worker:
+- Portfólio: https://tomasfurlan.com.br/ :computer:
