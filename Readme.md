@@ -1,5 +1,6 @@
-- Desenvolvedor em TalkAll :computer:	
-- Desenvolvedor em BlastOff :rocket:	
-- Desenvolvedor em Ricchezza Prata :ring:
+- Desenvolvedor em:
+    - TalkAll :computer:	
+    - BlastOff :rocket:	
+    - Ricchezza Prata :ring:
 - LinkedIn: https://www.linkedin.com/in/tomas-furlan-rodolpho/ :man_office_worker:
 - Portfólio: https://tomasfurlan.com.br/ :desktop_computer:
